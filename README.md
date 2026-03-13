@@ -1,0 +1,68 @@
+# Ella Mai – Not Another Love Song
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.72] I don't know wanna mess this up
+[00:08.21] Could it be too much to say I'm in-
+[00:25.71] 
+[00:11.55] Deep in, swimmin' in my feelings
+[00:14.44] I've been here before but it feels like I'm drownin'
+[00:18.18] Sinkin', am I overthinking?
+[00:20.45] Tell me, am I foolish to think you need me here?
+[00:24.09] Oh, oh, oh, ooh, oh
+[00:28.42] I wanna do this again
+[00:31.18] Oh, oh, oh, ooh, oh
+[00:40.68] 
+[00:34.64] I'm goin' down 'cause I know that it's you I see in my dreams
+[00:40.48] I'm goin' down
+[00:42.45] Let me drown over you, livin' in my dreams (in my dreams)
+[01:10.95] 
+[00:47.73] I love the way you do it, don't stop, don't wanna lose it
+[00:53.87] I love the way you do it to me (to me)
+[00:57.87] I love the way you (the way) do it
+[01:03.05] Don't stop (do it to me), don't wanna lose it
+[01:06.26] I love the way you do it to me (I love the way you do it to me)
+[01:10.76] Oh, oh, oh, oh
+[01:17.76] 
+[01:12.45] I don't know wanna mess this up
+[01:14.66] Could it be too much to say I'm in
+[01:18.43] I just wanna know what's up
+[01:20.89] Do you feel it? 'Cause I think I'm in (love)
+[01:42.89] 
+[01:36.43] I'm finna take my time, my mind, my rules
+[01:39.45] This ain't no crime
+[01:42.24] Makin' love to you, though you ain't say this
+[01:45.58] But I had a hard time waiting for you, boy (oh, oh, oh)
+[02:13.08] 
+[01:49.43] Like ooh, boy, you, boy
+[01:52.42] Got me where you want, just gotta say and it's on
+[01:55.24] It's like, ooh, boy
+[01:56.70] Do you know you got me like where do you go and
+[01:59.98] You ignore though, I, I (I wanna do this again)
+[02:01.97] Oh, oh, ooh, oh, I wanna do this again (I wanna, I wanna)
+[02:08.42] Oh, oh, ooh, oh
+[02:15.92] 
+[02:11.53] I'm goin' down 'cause I know that it's you I see in my dreams
+[02:42.03] 
+[02:17.82] I'm goin' down
+[02:19.71] Let me drown over you, livin' in my dreams (in my dreams)
+[02:48.21] 
+[02:24.89] I love the way you do it, don't stop, don't wanna lose it
+[02:31.01] I love the way you do it to me (I love it)
+[02:37.03] I love the way you (the way) do it
+[02:40.27] Don't stop (do it to me), don't wanna lose it
+[02:43.45] I love the way you do it to me (I love the way you do it to me)
+[02:48.32] Oh, oh, oh, oh
+[02:55.32] 
+[02:49.82] I don't know wanna mess this up
+[02:51.98] Could it be too much to say I'm in-
+[02:55.69] I just wanna know what's up, do you feel it? 'Cause I think I'm in
+[03:01.30] Love (love)
+[03:06.80] 
+[03:16.73] I guess it's all in my head until you let my body know
+[03:22.36] 'Cause everyone needs you, babe
+[03:25.36] Want nobody but you, babe
+[03:27.79] So tell me what you gon' do, babe?
+[03:30.22] Not another love song
+```
