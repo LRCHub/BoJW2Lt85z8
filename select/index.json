@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Not Another Love Song",
+  "base_artist": "Ella Mai",
+  "createdAt": "2026-03-13T14:58:07.395146Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "Paulini",
+      "has_synced": true,
+      "path": "select/01_Not_Another_Love_Song_Paulini.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "Billie Myers",
+      "has_synced": false,
+      "path": "select/02_Not_Another_Love_Song_Billie_Myers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/03_Not_Another_Love_Song_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "Myers, Billie",
+      "has_synced": false,
+      "path": "select/04_Not_Another_Love_Song_Myers,_Billie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/05_Not_Another_Love_Song_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "Teflon Sega",
+      "has_synced": false,
+      "path": "select/06_Not_Another_Love_Song_Teflon_Sega.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "King Blues, The",
+      "has_synced": false,
+      "path": "select/07_Not_Another_Love_Song_King_Blues,_The.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "The King Blues",
+      "has_synced": false,
+      "path": "select/08_Not_Another_Love_Song_The_King_Blues.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/09_Not_Another_Love_Song_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/10_Not_Another_Love_Song_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "31.Not Another Love Song",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/11_31.Not_Another_Love_Song_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "Deana Carter",
+      "has_synced": false,
+      "path": "select/12_Not_Another_Love_Song_Deana_Carter.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "49.Not Another Love Song",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/13_49.Not_Another_Love_Song_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Not Another Love Song (Album Version)",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/14_Not_Another_Love_Song_(Album_Version)_Ella_Mai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Not Another Love Song",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_Not_Another_Love_Song_Ella_Mai.txt"
+    }
+  ]
+}
